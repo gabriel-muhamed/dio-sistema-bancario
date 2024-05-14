@@ -3,7 +3,7 @@
 Sistema Bancário Python
 =======================
 
-Este é um simples sistema bancário desenvolvido em Python como parte do desafio proposto pela DIO (Digital Innovation One) do bootcampo Python AI Backend Developer.
+Este é um simples sistema bancário desenvolvido em Python como parte do desafio proposto pela DIO (Digital Innovation One) do bootcamp Python AI Backend Developer.
 
 Funcionalidades
 ---------------
