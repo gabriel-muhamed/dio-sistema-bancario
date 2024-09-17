@@ -14,6 +14,8 @@ O sistema permite realizar as seguintes operações:
 *   **Saque**: Retira um valor do saldo da conta, com limites diários e de saldo disponível.
 *   **Extrato**: Mostra o histórico de transações e o saldo atual da conta.
 *   **Sair**: Encerra o programa.
+*   **Cria Conta**: Cria uma conta no sistema bancário.
+*   **Entrar com conta existente**: Entre no sistema bancário utilizando o CPF de uma conta existente.
 
 Instruções de Uso
 -----------------
